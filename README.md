@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/theabhijeet10" target="blank"><img src="https://img.shields.io/twitter/follow/theabhijeet10?logo=twitter&style=for-the-badge" alt="theabhijeet10" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analytics**
+- 🔭 I’m currently working on **Full Stack Development & Cloud Integration**
 
-- 🌱 I’m currently learning **A analysis on Mental Health**
+- 🌱 I’m currently learning **AWS Services**
 
-- 💬 Ask me about **Web Devlopment , Data Analytics**
+- 💬 Ask me about **Web Devlopment , Data Analytics, AWS Cloud, Full Stack Dev**
 
 - 📫 How to reach me **theabhijeet10@gmail.com**
 
