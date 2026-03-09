@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **AWS Services**
 
-- 💬 Ask me about **Web Devlopment , Data Analytics, AWS Cloud, Full Stack Dev**
+- 💬 Ask me about **Web Dev , Data Analytics, AWS Cloud, Full Stack Dev**
 
 - 📫 How to reach me **theabhijeet10@gmail.com**
 
